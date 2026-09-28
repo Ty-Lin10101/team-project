@@ -55,6 +55,6 @@ Team Member Signatures:
 Tyler Christopher Lin
 Houssam Kadri
 Millie Bay
-Jeffery Chan
+Jeffrey Chan
 Owen Zhang 
 Tony Lin
